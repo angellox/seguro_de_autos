@@ -12,4 +12,4 @@ Simulación de un seguro de auto con POO en JavaScript.
 <br> <br>
 <img src="https://github.com/angellox/icons_readme/blob/main/insurance_1.PNG" width="450">
 
-- <i>Testing</i>:   
+- <i>Testing</i>: https://segurodeautosonline.netlify.app/   
